@@ -1,0 +1,5 @@
+class   IndexPage(Exception):
+    pass
+{
+
+}
